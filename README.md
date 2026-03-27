@@ -1,2 +1,25 @@
-# Cross-Border-Digital-Ops-2026
-2026 跨境电商数字化运营实战项目：基于 RPA 自动化与 SQL 数据建模的提效方案。Digital Ops &amp; RPA solutions for Amazon/TikTok Cross-border E-commerce.
+# 2026 跨境电商数字化运营实战项目 (深圳站)
+
+
+
+本项目基于 CS 专业背景，探索跨境电商（Amazon/TikTok）的自动化与数据驱动方案。
+
+
+
+## 🚀 核心功能
+
+- **RPA 自动化**：基于影刀实现的达人批量开发与自动对账流程。
+
+- **SQL 建模**：多维利润归因分析模型，解决财务核算滞后痛点。
+
+- **AI 集成**：利用 Prompt 工程实现地道 Listing 批量生成。
+
+
+
+## 📂 目录结构
+
+- `/sql`: 常用经营分析查询脚本
+
+- `/rpa`: 流程逻辑截图与配置
+
+- `/docs`: 白皮书部分章节草稿
